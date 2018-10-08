@@ -1,0 +1,23 @@
+body{
+  background-image: url("http://4.bp.blogspot.com/-OTbQkKjbVIA/VDorZTD7vBI/AAAAAAAAfg0/sMIgOrlKOBI/s1600/14-270.jpg");
+  color:white;
+  text-align:center;
+  font-family:georgia;
+  margin-top:15%;
+}
+button{
+  background-color:darkturquoise;
+    color:white;
+    font-family:georgia;
+    border-radius: 5%;
+    padding: 2px;
+    width: 180px;
+    height: 30px;
+    display:block;
+    margin:3% auto;
+}
+
+img{
+  width:550px;
+  height:450px;
+}
